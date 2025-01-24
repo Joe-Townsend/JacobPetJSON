@@ -5,7 +5,7 @@
       "breed": "Dachsund",
       "age": 2,
       "description": "A small yet loud dog that will never be quiet, and will destroy everything in his path.",
-      "image": "../images/Dachsund.jpg"
+      "image": "https://iili.io/2sNckyg.jpg"
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
       "breed": "Weimaraner",
       "age": 2,
       "description": "A large dog that has as many brain cells as a rock, and severe seperation anxiety, however he is very loving.",
-      "image": "../images/Weimaraner.jpg"
+      "image": "https://iili.io/2sNcUZv.jpg"
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
       "breed": "Corgi",
       "description": "An adorable bundle of joy that is great with kids, and is as playful as any dog you will ever meet.",
       "age": 7,
-      "image": "../images/Corgi.jpg"
+      "image": "https://iili.io/2sNc8ua.jpg"
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@
       "breed": "Labrador",
       "description": "Big and Adorable, a perfect addition to any family.",
       "age": 8,
-      "image": "../images/Labrador.jpg"
+      "image": "https://iili.io/2sNcSwJ.jpg"
     },
     {
       "id": 5,
@@ -37,7 +37,7 @@
       "breed": "German Shepherd",
       "description": "Has a heart of gold and can't wait to show her new owner all of the love she has to give.",
       "age": 1,
-      "image": "../images/German-Shephard.jpg"
+      "image": "https://iili.io/2sNcOa1.jpg"
     },
     {
       "id": 6,
@@ -45,6 +45,6 @@
       "breed": "Husky",
       "description": "Aptly named after the god of mischief, he will keep you on your toes, but is overflowing with love to give to his next owners.",
       "age": 3,
-      "image": "../images/Husky.jpg"
+      "image": "https://iili.io/2sNce8F.jpg"
     }
   ]
